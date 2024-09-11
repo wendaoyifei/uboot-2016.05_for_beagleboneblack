@@ -84,3 +84,6 @@ GTAGS
 *.orig
 *~
 \#*#
+
+# BeagleBoneBlack dir
+BeagleBoneBlack
